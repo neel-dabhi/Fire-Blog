@@ -1,0 +1,34 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowContentTransitions">true</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/materialBlue</item>
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <style name="MyCustomAlert2" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="colorAccent">@color/materialBlue</item>
+        <item name="android:textColorPrimary">@color/fontColor</item>
+        <item name="android:windowBackground">@drawable/custom_alert2</item>
+        <item name="colorControlNormal">@android:color/white</item>
+        <item name="textColorAlertDialogListItem">@android:color/white</item>
+    </style>
+
+
+    <style name="CustomText">
+        <item name="android:fontFamily">@font/poppins_medium</item>
+    </style>
+
+    <style name="webview">
+        <item name="android:statusBarColor">@color/colorPrimaryDark</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+        <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+</resources>

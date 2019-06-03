@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android"
+    android:insetLeft="@dimen/activity_horizontal_margin3"
+    android:insetRight="@dimen/activity_horizontal_margin3"
+    android:insetBottom="@dimen/activity_horizontal_margin4"
+    android:insetTop="@dimen/activity_horizontal_margin4">
+
+    <shape android:shape="rectangle" >
+    <corners android:radius="6dp"/>
+    <solid android:color="#fff"/>
+    </shape>
+
+</inset>

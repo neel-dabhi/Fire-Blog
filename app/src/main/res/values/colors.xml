@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#fff</color>
+    <color name="colorAccent">#ff6d00</color>
+
+    <color name="blackPrimary">#424242</color>
+
+
+    <!-- colors for button style -->
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+
+
+    <!-- colors for tab and screent text -->
+
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+
+
+    <!-- Other Colors -->
+    <color name="fontColor">#616161</color>
+    <color name="light200">#FFEEEEEE</color>
+    <!-- 700 -->
+    <color name="materialBlue">#448aff</color>  <!-- 200  448aff -->
+    <!-- 400 -->
+    <color name="blueTransparent">#28448aff</color>
+
+
+    <color name="grey_10">#C4C4C4</color>
+    <color name="grey">#3F3F3F</color>
+    <color name="grey_40">#999999</color>
+    <color name="grey_80">#37474F</color>
+    <color name="grey_90">#263238</color>
+
+
+    <!-- app palette -->
+    <color name="primary">#69F0AE</color>
+    <color name="primary_dark">#4aa87a</color>
+
+    <!-- common colours -->
+    <!-- 87% -->
+    <!-- 54% -->
+    <!-- 70% -->
+    <!-- 30% -->
+    <!-- grey 50 -->
+    <!-- 70% grey 200 -->
+    <!-- overridden on v23+ -->
+    <!-- overridden on v26+ -->
+    <!-- this is blended with immersive_bars to produce the desired status bar color i.e. background_super_dark -->
+    <!-- 60% black-->
+    <!-- 30% black-->
+    <!-- 60% black on @color/primary -->
+    <!-- grey 600 -->
+
+    <!-- text (most text uses material theme colours) -->
+    <!-- 26% black -->
+
+    <!-- dribbble -->
+
+    <!-- designer news -->
+    <!--light blue 500 --><![CDATA[-->
+    ]]><!--*not* varied in -night -->
+    <!-- light blue 600 -->
+
+    <!-- product hunt-->
+    <!--orange 500 -->
+
+
+</resources>
