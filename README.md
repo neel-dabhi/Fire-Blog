@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/neelkanthjdabhi/Pencil">
+  <a href="https://github.com/neelkanthjdabhi/Fire-Blog">
     <img src="https://raw.githubusercontent.com/neelkanthjdabhi/Fire-Blog/master/fireblog_icon.png" width=74.34 height=85>
   </a>
 
