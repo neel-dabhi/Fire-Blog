@@ -9,7 +9,7 @@
     A photo blogging plateform, backed by FireBase.
     <br>
     <br>
-    <a href="https://drive.google.com/file/d/1LRY8M2wXckiRLuUBffRUHtd6X7qQaWBK/view?usp=sharing">Download APK</a>
+    <a href="https://drive.google.com/file/d/1L4fXrQdckaR79K85od65bMVpbCfWHl4-/view?usp=sharing">Download APK</a>
   </p>
 </p>
 
